@@ -1883,10 +1883,10 @@ flatten@^1.0.2:
   resolved "https://registry.yarnpkg.com/flatten/-/flatten-1.0.3.tgz#c1283ac9f27b368abc1e36d1ff7b04501a30356b"
   integrity sha512-dVsPA/UwQ8+2uoFe5GHtiBMu48dWLTdsuEd7CKGlZlD78r1TTWBvDuFaFGKCo/ZfEr95Uk56vZoX86OsHkUeIg==
 
-flowbite@^1.3.2:
-  version "1.3.2"
-  resolved "https://registry.yarnpkg.com/flowbite/-/flowbite-1.3.2.tgz#040c0878b9df560339592160c726a71101bd2e02"
-  integrity sha512-Uvh8sk+QtGohAUTY6yVdOgfkD3MeM7ygOH5izv+Ib85a0iHTiEBAHj/B2JiPCc5R+q6GcmQChEXEvVvVo2ryKg==
+flowbite@^1.3.3:
+  version "1.3.4"
+  resolved "https://registry.yarnpkg.com/flowbite/-/flowbite-1.3.4.tgz#60c3f729a7bde26f3f4f9222a835e362321d93b9"
+  integrity sha512-i/gA7BcyMk2cFwJb78wvxrTj+XDnchjIBywksip3AFMD/KKpwtQ9hgrCJpR515jVuil0tKhLIebBotvorgayBQ==
   dependencies:
     "@docsearch/js" "^3.0.0-alpha.42"
     "@popperjs/core" "^2.9.3"
